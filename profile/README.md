@@ -6,15 +6,29 @@ The [ASAP Collaborative Research Network (CRN)](https://parkinsonsroadmap.org/re
 The CRN is an international, multidisciplinary, and multi-institutional network of collaborating investigators working to address high-priority basic science questions. Teams are awarded grant funding through request for applications in partnership with the Michael J. Fox Foundation for Parkinson’s Research (MJFF).
 
 
+## 👩‍💻 Useful resources 
 
+### metadata QC tool
+[QC streamlit app](https://github.com/ASAP-CRN/asap_sc_collect)
+### PMDBS-Curation 
 
-Teams!
+### Tools
+[curation tools](https://github.com/ASAP-CRN/PMDBS-curation) (currently private)
+[asap_ids](https://github.com/jb-adams/asap-cloud-data-processing-resources) (currently private)
+
+### workflow
+[WDL curation workflow](https://github.com/ASAP-CRN/harmonized-wf-dev)
+
+🌈 Teams!
 - [Hardy](https://parkinsonsroadmap.org/research-network/team-hardy/#)
 - [Hafler](https://parkinsonsroadmap.org/research-network/team-hafler/#)
 - [Lee](https://parkinsonsroadmap.org/research-network/team-lee/#)
 - [Jakobsson](https://parkinsonsroadmap.org/research-network/team-jakobsson/#)
 - [Scherzer](https://parkinsonsroadmap.org/research-network/team-scherzer/#)
 - [Sulzer](https://parkinsonsroadmap.org/research-network/team-sulzer/#)
+
+
+
 
 
 <!--
