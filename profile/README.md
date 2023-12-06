@@ -9,15 +9,16 @@ The CRN is an international, multidisciplinary, and multi-institutional network 
 ## 👩‍💻 Useful resources 
 
 ### metadata QC tool
-[QC streamlit app](https://github.com/ASAP-CRN/asap_sc_collect)
+- [QC streamlit app](https://github.com/ASAP-CRN/asap_sc_collect)
 ### PMDBS-Curation 
+- [meta-clean](https://github.com/ergonyc/meta-clean)
 
 ### Tools
-[curation tools](https://github.com/ASAP-CRN/PMDBS-curation) (currently private)
-[asap_ids](https://github.com/jb-adams/asap-cloud-data-processing-resources) (currently private)
+- [curation tools](https://github.com/ASAP-CRN/PMDBS-curation) (currently private)
+- [asap_ids](https://github.com/jb-adams/asap-cloud-data-processing-resources) (currently private)
 
 ### workflow
-[WDL curation workflow](https://github.com/ASAP-CRN/harmonized-wf-dev)
+- [WDL curation workflow](https://github.com/ASAP-CRN/harmonized-wf-dev)
 
 🌈 Teams!
 - [Hardy](https://parkinsonsroadmap.org/research-network/team-hardy/#)
