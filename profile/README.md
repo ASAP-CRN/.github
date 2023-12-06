@@ -1,5 +1,5 @@
 ## Welcom to the ASAP CRN github!! 👋
-![parkinsonsroadmap.org](http://url/to/img.png](https://parkinsonsroadmap.org/)
+![parkinsonsroadmap.org](https://parkinsonsroadmap.org/)
 
 The [ASAP Collaborative Research Network (CRN)](https://parkinsonsroadmap.org/research-network/#) is the first of its kind to foster an environment that facilitates the rapid and free exchange of scientific ideas to spark new discoveries for Parkinson’s disease (PD). 
 
