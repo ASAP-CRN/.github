@@ -9,19 +9,28 @@ The [ASAP Collaborative Research Network (CRN)](https://parkinsonsroadmap.org/re
 The CRN is an international, multidisciplinary, and multi-institutional network of collaborating investigators working to address high-priority basic science questions. Teams are awarded grant funding through request for applications in partnership with the Michael J. Fox Foundation for Parkinson’s Research (MJFF).
 
 
-## 👩‍💻 Useful resources 
+## repos
 
-### metadata QC tool
-- [QC streamlit app](https://github.com/ASAP-CRN/asap_sc_collect)
-### PMDBS-Curation 
-- [meta-clean](https://github.com/ergonyc/meta-clean)
+### ASAP CRN Cloud resources (private)
+- **Release Resources*** [`asap-crn-cloud-release-resources`](https://github.com/ASAP-CRN/asap-crn-cloud-release-resources)
+- **Release Resources*** [`asap-crn-cloud-datasets`](https://github.com/ASAP-CRN/asap-crn-cloud-datasets)
+- **Release Resources*** [`asap-crn-cloud-collections`](https://github.com/ASAP-CRN/asap-crn-cloud-collections)
+- **Release Resources*** [`asap-crn-cloud-dataset-metadata`](https://github.com/ASAP-CRN/asap-crn-cloud-dataset-metadata)
 
-### Tools
-- [curation tools](https://github.com/ASAP-CRN/PMDBS-curation) (currently private)
-- [asap_ids](https://github.com/jb-adams/asap-cloud-data-processing-resources) (currently private)
+### Tools (public)
+- [crn-utils](https://github.com/jb-adams/crn-utils) 
+- [streamlit metadata validation app](https://github.com/ASAP-CRN/crn-meta-validate)
+ 
+### analysis pipeline workflows (public)
+- [WDL PMDBS scRNAseq curation workflow](https://github.com/ASAP-CRN/pmdbs-sc-rnaseq-wf)
+- [WDL PMDBS bulkRNAseq curation workflow](https://github.com/ASAP-CRN/pmdbs-bulk-rnaseq-wf)
+- [Common WDL workflows](https://github.com/ASAP-CRN/wf-common)
 
-### workflow
-- [WDL curation workflow](https://github.com/ASAP-CRN/harmonized-wf-dev)
+
+
+
+
+<!--
 
 🌈 Teams!
 - [Hardy](https://parkinsonsroadmap.org/research-network/team-hardy/#)
@@ -31,11 +40,6 @@ The CRN is an international, multidisciplinary, and multi-institutional network 
 - [Scherzer](https://parkinsonsroadmap.org/research-network/team-scherzer/#)
 - [Sulzer](https://parkinsonsroadmap.org/research-network/team-sulzer/#)
 
-
-
-
-
-<!--
 
 **Here are some ideas to get you started:**
 
