@@ -13,9 +13,9 @@ The CRN is an international, multidisciplinary, and multi-institutional network 
 
 ### ASAP CRN Cloud resources (private)
 - **Release Resources*** [`asap-crn-cloud-release-resources`](https://github.com/ASAP-CRN/asap-crn-cloud-release-resources)
-- **Release Resources*** [`asap-crn-cloud-datasets`](https://github.com/ASAP-CRN/asap-crn-cloud-datasets)
-- **Release Resources*** [`asap-crn-cloud-collections`](https://github.com/ASAP-CRN/asap-crn-cloud-collections)
-- **Release Resources*** [`asap-crn-cloud-dataset-metadata`](https://github.com/ASAP-CRN/asap-crn-cloud-dataset-metadata)
+- **Datasets*** [`asap-crn-cloud-datasets`](https://github.com/ASAP-CRN/asap-crn-cloud-datasets)
+- **Collections*** [`asap-crn-cloud-collections`](https://github.com/ASAP-CRN/asap-crn-cloud-collections)
+- **Dataset Metadata*** [`asap-crn-cloud-dataset-metadata`](https://github.com/ASAP-CRN/asap-crn-cloud-dataset-metadata)
 
 ### Tools (public)
 - [crn-utils](https://github.com/jb-adams/crn-utils) 
