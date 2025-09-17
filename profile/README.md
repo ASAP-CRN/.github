@@ -13,8 +13,6 @@ The CRN is an international, multidisciplinary, and multi-institutional network 
 
 ### ASAP CRN Cloud resources (private)
 - **Release Resources*** [`asap-crn-cloud-release-resources`](https://github.com/ASAP-CRN/asap-crn-cloud-release-resources)
-- **Datasets*** [`asap-crn-cloud-datasets`](https://github.com/ASAP-CRN/asap-crn-cloud-datasets)
-- **Collections*** [`asap-crn-cloud-collections`](https://github.com/ASAP-CRN/asap-crn-cloud-collections)
 - **Dataset Metadata*** [`asap-crn-cloud-dataset-metadata`](https://github.com/ASAP-CRN/asap-crn-cloud-dataset-metadata)
 
 ### Tools (public)
@@ -38,8 +36,7 @@ The CRN is an international, multidisciplinary, and multi-institutional network 
 - [Lee](https://parkinsonsroadmap.org/research-network/team-lee/#)
 - [Jakobsson](https://parkinsonsroadmap.org/research-network/team-jakobsson/#)
 - [Scherzer](https://parkinsonsroadmap.org/research-network/team-scherzer/#)
-- [Sulzer](https://parkinsonsroadmap.org/research-network/team-sulzer/#)
-
+- 
 
 **Here are some ideas to get you started:**
 
