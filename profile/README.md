@@ -16,7 +16,7 @@ The CRN is an international, multidisciplinary, and multi-institutional network 
 - **Dataset Metadata*** [`asap-crn-cloud-dataset-metadata`](https://github.com/ASAP-CRN/asap-crn-cloud-dataset-metadata)
 
 ### Tools (public)
-- [crn-utils](https://github.com/jb-adams/crn-utils) 
+- [crn-utils](https://github.com/ASAP-CRN/crn-utils) 
 - [streamlit metadata validation app](https://github.com/ASAP-CRN/crn-meta-validate)
  
 ### analysis pipeline workflows (public)
