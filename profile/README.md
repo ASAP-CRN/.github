@@ -1,6 +1,6 @@
 ![https://parkinsonsroadmap.org/](https://parkinsonsroadmap.org/wp-content/uploads/2020/10/cropped-ASAP_Logo_FullColor@2x.png) 
 
-# Welcom to the ASAP CRN github!! 👋
+# Welcome to the ASAP CRN github!! 👋
 
 ![https://parkinsonsroadmap.org/research-network/](https://parkinsonsroadmap.org/wp-content/uploads/elementor/thumbs/CRN_Logo_White_RGB-q1n0ppvnrl0r6n2p6vqteeflblx2xr2p1nvktdltks.png)
 
