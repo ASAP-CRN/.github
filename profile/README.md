@@ -77,12 +77,13 @@ Public records and automation resources that describe CRN Cloud releases, data c
 ![Workflow](https://img.shields.io/badge/Workflow-WDL-7952B3?style=flat-square)
 ![Data](https://img.shields.io/badge/Data-PMDBS-8E44AD?style=flat-square)
 
-Public [WDL](https://openwdl.org/) workflows used to curate and harmonize CRN datasets, including postmortem-derived brain sequencing resources.
+[WDL](https://openwdl.org/) workflows used to curate and harmonize CRN datasets, including postmortem-derived brain sequencing resources.
 
 | Repository | Description |
 |---|---|
 | [`pmdbs-sc-rnaseq-wf`](https://github.com/ASAP-CRN/pmdbs-sc-rnaseq-wf) | PMDBS single-cell RNA-seq curation workflow |
-| [`pmdbs-bulk-rnaseq-wf`](https://github.com/ASAP-CRN/pmdbs-bulk-rnaseq-wf) | PMDBS bulk RNA-seq curation workflow |
+| [`bulk-rnaseq-wf`](https://github.com/ASAP-CRN/bulk-rnaseq-wf) | Bulk RNA-seq curation workflow |
+| [`spatial-transcriptomics-wf`](https://github.com/ASAP-CRN/spatial-transcriptomics-wf) | Spatial transcriptomics harmonization workflow |
 | [`wf-common`](https://github.com/ASAP-CRN/wf-common) | Shared WDL tasks, utilities, and workflow components |
 
 ---
