@@ -55,7 +55,7 @@ Hands-on tutorials, sample notebooks, and reproducible examples for researchers 
 
 ---
 
-## Cloud Data Infrastructure
+## CRN Cloud Public Archive & Provenance
 
 ![Type](https://img.shields.io/badge/Type-Cloud%20Infrastructure-0078D4?style=flat-square)
 ![Data](https://img.shields.io/badge/Data-Releases%20%26%20Collections-00A3A3?style=flat-square)
@@ -64,9 +64,10 @@ Public records and automation resources that describe CRN Cloud releases, data c
 
 | Repository | Description |
 |---|---|
-| [`cloud-releases`](https://github.com/ASAP-CRN/cloud-releases) | Versioned CRN Cloud release records and release-management resources |
-| [`cloud-collections`](https://github.com/ASAP-CRN/cloud-collections) | Public definitions of CRN Cloud data collections |
-| [`cloud-orchestration`](https://github.com/ASAP-CRN/cloud-orchestration) | Workflows and automation for coordinating CRN Cloud releases |
+| [`cloud-datasets`](https://github.com/ASAP-CRN/cloud-datasets) | Versioned CRN Cloud Dataset summary |
+| [`cloud-releases`](https://github.com/ASAP-CRN/cloud-releases) | Versioned CRN Cloud release summary |
+| [`cloud-collections`](https://github.com/ASAP-CRN/cloud-collections) | Versioned CRN Cloud data Collections summary |
+
 
 ---
 
@@ -97,7 +98,7 @@ Reusable and operational tools that support CRN Cloud workflows, metadata valida
 |---|---|
 | [`crn-utils`](https://github.com/ASAP-CRN/crn-utils) | Utility functions used across CRN Cloud workflows and resources |
 | [`crn-meta-validate`](https://github.com/ASAP-CRN/crn-meta-validate) | Streamlit app for validating CRN metadata against expected formats and schemas |
-
+| [`cloud-orchestration`](https://github.com/ASAP-CRN/cloud-orchestration) | Workflows and automation for coordinating CRN Cloud release provenance archive |
 ---
 
 ## Private Operational Resources
