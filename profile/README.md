@@ -36,6 +36,7 @@ The CRN is an international, multidisciplinary, and multi-institutional network 
 | Explore available datasets and collections | [CRN Cloud Explorer](https://cloud.parkinsonsroadmap.org/collections) |
 | Run tutorials and sample notebooks | [ASAP CRN Learning Lab](https://asap-crn.github.io/asap-crn-learning-lab/) |
 | Learn more about the research network | [ASAP CRN Website](https://parkinsonsroadmap.org/research-network/#) |
+| Develop your own analysis | [ASAP CRN Reference Workspace in Verily Workbench](https://workbench.verily.com/workspaces/asap-crn-reference-workspace) |
 
 ---
 
